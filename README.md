@@ -2,7 +2,9 @@
 
 A playground for writing circuits in the [Noname](https://github.com/zksecurity/noname) programming language.
 
-<video width="320" height="240" controls>
-  <source src="noname_playground_demo.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/58ec06a2-e073-4570-9a2d-30e7fe6464c0
+
+
 
